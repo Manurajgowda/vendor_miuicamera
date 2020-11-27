@@ -1,7 +1,7 @@
 # MiuiCamera - from laurel_sprout V11.0.15.0.QFQMIXM - manually patched
 -priv-app/MiuiCamera/MiuiCamera.apk|4baea2385df376af073a8386a263c60c7eb018be
 
-# MiuiCamera - libraries - from cepheus V12.0.1.0 QFAEUXM
+# MiuiCamera - libraries - from davinci-user-11-RKQ1.200826.002-20.10.30-release-keys
 lib64/libarc_layer_sgl.so:priv-app/MiuiCamera/lib/arm64/libarc_layer_sgl.so
 lib64/libarcsoft_deflicker.so:priv-app/MiuiCamera/lib/arm64/libarcsoft_deflicker.so
 lib64/libarcsoft_wideselfie.so:priv-app/MiuiCamera/lib/arm64/libarcsoft_wideselfie.so
@@ -43,5 +43,5 @@ vendor/camera/fonts/MIUI_Time.ttf
 # ArcSoft config
 vendor/etc/camera/beauty_ui9_intelligent_params.config
 
-# Camera service - from cepheus MIUI EEA 12.0.1.0
-lib/libcameraservice.so|e5cc4de4422416edd2ce8e15e5f5125a75b154e4
+# Camera service - from davinci-user-11-RKQ1.200826.002-20.10.30-release-keys
+lib/libcameraservice.so
